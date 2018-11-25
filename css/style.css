@@ -1,0 +1,169 @@
+.box{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    background-image:url("../img/really.png");
+    background-size: cover;
+}   
+.header-left{
+    width: 92px;
+    height: 150px;
+    background-image: url("../img/气球左.png");
+    position: absolute;
+    left: 188px;
+    top: 28px;
+}
+.header-right{
+    width: 284px;
+    height: 326px;
+    background-image: url("../img/气球右.png");
+    position: absolute;
+    left: 1393px;
+    top: 254px;
+}
+.word{
+    width: 746.49px;
+    height: 90px;
+    position: absolute;
+    left: 289px;
+    top: 50px;
+}
+p{
+    color: #fff;
+    font-family: 黑体;
+    font-style: italic;
+    font-size: 59.44px;
+   }
+.write{
+    width: 920px;
+    height: 663px;
+    position: absolute;
+    left: 500px;
+    top: 208px;
+    background-image: url("../img/背景.png");
+}
+.out{
+    width: 920px;
+    height: 663px;
+    position: absolute;
+    left: 511px;
+    top: 209px;
+    background-image: url("../img/边框.png")
+}
+.head{
+    width: 169px;
+    height: 202.99px;
+    position: absolute;
+    left: 1161px;
+    top: 293px;
+    background-image: url("../img/头像上传.png")
+}
+.one{
+    width: 843.9px;
+    height: 546.9px;
+    position: absolute;
+    left: 10px;
+    top: 20px;
+    font-size: 23.33px;
+}
+.ok{
+    width: 152px;
+    height: 56px;
+    position: absolute;
+    left: 884px;
+    top: 792px;
+    background-image: url("../img/按钮.png")
+
+}
+a{
+    position: absolute;
+    left: 50px;
+    top: 6px;
+    font-size: 29.76px;
+    color: #fff;
+    text-decoration: none;
+}
+.name{
+    width: 170px;
+    height: 51px;
+    position: absolute;
+    left:62px;
+    top: 62px;
+    background-image: url("../img/输入框1.png");
+    border-style: none
+
+}
+
+.ps{
+    
+    position: relative;
+    left: 620px;
+    top: 150px;
+    width: 41px;
+    height: 150px;;
+    font-size: 23.33px;
+}
+input{border-radius:24px;
+    font-size:22.33px;
+    height:40px;
+    width:157px;
+outline: 0px;}
+select{border-radius:24px;
+     font-size:22.33px;
+     width:305px;
+     height:42px;
+     }
+.myname{
+    font-size: 23.33px;
+    position: absolute;
+    left: 50px;
+    top: 86px;
+}    
+.gender{
+    font-size: 23.33px;
+    position: absolute;
+    left: 350px;
+    top: 86px;
+}
+.major{
+    font-size: 23.33px;
+    position: absolute;
+    left: 50px;
+    top: 160px;
+}
+.class{
+    font-size: 23.33px;
+    position: absolute;
+    left: 350px;
+    top: 160px;
+}
+.number{
+    font-size: 23.33px;
+    position: absolute;
+    left: 50px;
+    top: 240px;
+}
+.futureone{
+    font-size: 23.33px;
+    position: absolute;
+    left: 50px;
+    top: 330px;
+}
+.futuretwo{
+    font-size: 23.33px;
+    position: absolute;
+    left: 500px;
+    top: 330px;
+}
+textarea{border-radius:24px;
+    font-size:22.33px;
+    display:block;
+    width:783px;
+    height:112px;
+}
+.reason{
+    font-size: 23.33px;
+    position: absolute;
+    left: 50px;
+    top: 400px;
+}
